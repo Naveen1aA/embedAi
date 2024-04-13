@@ -1,0 +1,30 @@
+.navbar-container{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-between;
+    height: 100vh;
+    width: 200px;
+    border-width: 2px;
+    border-color: blue;
+}
+.button-1{
+    height: 50px;
+    width:100px;
+    margin:10px;
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: rgb(210, 224, 224);
+}
+.button-2{
+    height: 50px;
+    width:170px;
+    border-width: 0px;
+    background-color: rgb(221, 235, 235);
+}
+.button-3{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    margin: 15px;
+}
